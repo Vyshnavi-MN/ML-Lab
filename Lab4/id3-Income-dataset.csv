@@ -1,0 +1,16 @@
+age,has_job,own_house,credit_rating,class
+young,0,0,fair,no
+young,0,0,good,no
+young,1,0,good,yes
+young,1,1,fair,yes
+young,0,0,fair,no
+middle,0,0,fair,no
+middle,0,0,good,no
+middle,1,1,good,yes
+middle,0,1,excellent ,yes
+middle,0,1,excellent ,yes
+old,0,1,excellent ,yes
+old,0,1,good,yes
+old,1,0,good,yes
+old,1,0,excellent ,yes
+old,0,0,fair,no

@@ -1,0 +1,6 @@
+age,has_job,own_house,credit_rating,class
+middle,0,0,good,no
+middle,0,0,fair,no
+young,0,0,fair,no
+old,1,0,excellent ,yes
+old,0,0,fair,no
